@@ -19,6 +19,7 @@ seqLength = float(len(seq))
 
 print "Sequence Length:", seqLength
 
+print "this is a new line"
 nbA = seq.count('A') 
 nbT = seq.count('T')
 nbC = seq.count('C')
